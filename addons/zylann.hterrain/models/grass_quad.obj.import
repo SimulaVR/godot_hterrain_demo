@@ -2,18 +2,17 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/grass_quad.obj-da067750350fe98ec466261b2aeaf486.mesh"
+path="res://.import/grass_quad.obj-460f2d116406c2ff158ab85254d87aa9.mesh"
 
 [deps]
 
-files=[ "res://.import/grass_quad.obj-da067750350fe98ec466261b2aeaf486.mesh" ]
+files=[ "res://.import/grass_quad.obj-460f2d116406c2ff158ab85254d87aa9.mesh" ]
 
-source_file="res://addons/zylann.hterrain/models/grass_quad.obj"
-dest_files=[ "res://.import/grass_quad.obj-da067750350fe98ec466261b2aeaf486.mesh", "res://.import/grass_quad.obj-da067750350fe98ec466261b2aeaf486.mesh" ]
+source_file="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/models/grass_quad.obj"
+dest_files=[ "res://.import/grass_quad.obj-460f2d116406c2ff158ab85254d87aa9.mesh", "res://.import/grass_quad.obj-460f2d116406c2ff158ab85254d87aa9.mesh" ]
 
 [params]
 
 generate_tangents=true
 scale_mesh=Vector3( 1, 1, 1 )
-offset_mesh=Vector3( 0, 0, 0 )
 optimize_mesh=true

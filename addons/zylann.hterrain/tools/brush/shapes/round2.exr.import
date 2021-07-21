@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/round2.exr-2a843db3bf131f2b2f5964ce65600f42.stex"
+path="res://.import/round2.exr-2831ae7612a5aced3837d0f6db45237c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain/tools/brush/shapes/round2.exr"
-dest_files=[ "res://.import/round2.exr-2a843db3bf131f2b2f5964ce65600f42.stex" ]
+source_file="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/tools/brush/shapes/round2.exr"
+dest_files=[ "res://.import/round2.exr-2831ae7612a5aced3837d0f6db45237c.stex" ]
 
 [params]
 

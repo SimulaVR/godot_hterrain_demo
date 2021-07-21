@@ -1,8 +1,9 @@
 [gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://addons/zylann.hterrain/tools/generator/generator_dialog.gd" type="Script" id=1]
-[ext_resource path="res://addons/zylann.hterrain/tools/inspector/inspector.tscn" type="PackedScene" id=2]
-[ext_resource path="res://addons/zylann.hterrain/tools/terrain_preview.tscn" type="PackedScene" id=3]
+[ext_resource path="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/generator/generator_dialog.gd" type="Script" id=1]
+[ext_resource path="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/inspector/inspector.tscn" type="PackedScene" id=2]
+[ext_resource path="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/terrain_preview.tscn" type="PackedScene" id=3]
+
 
 [node name="GeneratorDialog" type="WindowDialog"]
 margin_left = 22.0

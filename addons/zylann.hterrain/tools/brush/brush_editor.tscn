@@ -1,8 +1,9 @@
 [gd_scene load_steps=5 format=2]
 
-[ext_resource path="res://addons/zylann.hterrain/tools/brush/brush_editor.gd" type="Script" id=1]
-[ext_resource path="res://addons/zylann.hterrain/tools/icons/empty.png" type="Texture" id=2]
-[ext_resource path="res://addons/zylann.hterrain/tools/util/interval_slider.gd" type="Script" id=3]
+[ext_resource path="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/brush/brush_editor.gd" type="Script" id=1]
+[ext_resource path="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/icons/empty.png" type="Texture" id=2]
+[ext_resource path="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/util/interval_slider.gd" type="Script" id=3]
+
 
 [sub_resource type="CanvasItemMaterial" id=1]
 blend_mode = 1

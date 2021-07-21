@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon_heightmap_node.svg-0b776ad0015c7d9d9553b161b36e70fe.stex"
+path="res://.import/icon_heightmap_node.svg-ec6d185f43676472755d3729630e9db5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain/tools/icons/icon_heightmap_node.svg"
-dest_files=[ "res://.import/icon_heightmap_node.svg-0b776ad0015c7d9d9553b161b36e70fe.stex" ]
+source_file="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/tools/icons/icon_heightmap_node.svg"
+dest_files=[ "res://.import/icon_heightmap_node.svg-ec6d185f43676472755d3729630e9db5.stex" ]
 
 [params]
 

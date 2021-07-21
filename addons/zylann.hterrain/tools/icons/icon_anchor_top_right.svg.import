@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon_anchor_top_right.svg-e9f520f41c9c20cc5e64aca56427ca01.stex"
+path="res://.import/icon_anchor_top_right.svg-b370988d91c80300a8648e8cf301284c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain/tools/icons/icon_anchor_top_right.svg"
-dest_files=[ "res://.import/icon_anchor_top_right.svg-e9f520f41c9c20cc5e64aca56427ca01.stex" ]
+source_file="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/tools/icons/icon_anchor_top_right.svg"
+dest_files=[ "res://.import/icon_anchor_top_right.svg-b370988d91c80300a8648e8cf301284c.stex" ]
 
 [params]
 

@@ -1,23 +1,36 @@
 [gd_scene load_steps=24 format=2]
 
-[ext_resource path="res://addons/zylann.hterrain/hterrain.gd" type="Script" id=1]
-[ext_resource path="res://addons/zylann.hterrain_demo/terrain_data/data.hterrain" type="Resource" id=2]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot1_normal_roughness.packed_tex" type="Texture" id=3]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot3_normal_roughness.packed_tex" type="Texture" id=4]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot2_normal_roughness.packed_tex" type="Texture" id=5]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot3_albedo_bump.packed_tex" type="Texture" id=6]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot2_albedo_bump.packed_tex" type="Texture" id=7]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot0_normal_roughness.packed_tex" type="Texture" id=8]
-[ext_resource path="res://addons/zylann.hterrain/hterrain_detail_layer.gd" type="Script" id=9]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/grass/grass_billboard.png" type="Texture" id=10]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/table_mountain_2_4k.hdr" type="Texture" id=11]
-[ext_resource path="res://addons/zylann.hterrain_demo/avatar.gd" type="Script" id=12]
-[ext_resource path="res://addons/zylann.hterrain_demo/mouse_look.gd" type="Script" id=13]
-[ext_resource path="res://addons/zylann.hterrain_demo/inventory.gd" type="Script" id=14]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot1_albedo_bump.packed_tex" type="Texture" id=15]
-[ext_resource path="res://addons/zylann.hterrain_demo/textures/ground/slot0_albedo_bump.packed_tex" type="Texture" id=16]
-[ext_resource path="res://addons/zylann.hterrain_demo/sea_material.tres" type="Material" id=17]
-[ext_resource path="res://addons/zylann.hterrain/hterrain_texture_set.gd" type="Script" id=18]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/hterrain.gd" type="Script" id=1]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/terrain_data/data.hterrain" type="Resource" id=2]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot1_normal_roughness.packed_tex" type="Texture" id=3]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot3_normal_roughness.packed_tex" type="Texture" id=4]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot2_normal_roughness.packed_tex" type="Texture" id=5]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot3_albedo_bump.packed_tex" type="Texture" id=6]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot2_albedo_bump.packed_tex" type="Texture" id=7]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot0_normal_roughness.packed_tex" type="Texture" id=8]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/hterrain_detail_layer.gd" type="Script" id=9]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/grass/grass_billboard.png" type="Texture" id=10]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/table_mountain_2_4k.hdr" type="Texture" id=11]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/avatar.gd" type="Script" id=12]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/mouse_look.gd" type="Script" id=13]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/inventory.gd" type="Script" id=14]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot1_albedo_bump.packed_tex" type="Texture" id=15]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/textures/ground/slot0_albedo_bump.packed_tex" type="Texture" id=16]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/sea_material.tres" type="Material" id=17]
+[ext_resource path="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/hterrain_texture_set.gd" type="Script" id=18]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [sub_resource type="Resource" id=1]
 script = ExtResource( 18 )

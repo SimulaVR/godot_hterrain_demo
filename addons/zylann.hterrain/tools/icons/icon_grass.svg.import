@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon_grass.svg-6a20eb11bc23d46b8a4c0f365f95554b.stex"
+path="res://.import/icon_grass.svg-0605ec3643cf55ae3649768096758047.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain/tools/icons/icon_grass.svg"
-dest_files=[ "res://.import/icon_grass.svg-6a20eb11bc23d46b8a4c0f365f95554b.stex" ]
+source_file="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/tools/icons/icon_grass.svg"
+dest_files=[ "res://.import/icon_grass.svg-0605ec3643cf55ae3649768096758047.stex" ]
 
 [params]
 

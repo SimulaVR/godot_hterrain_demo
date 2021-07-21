@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/global_albedo.png-9bee09f7132cc81b82109d18f5b6db10.stex"
+path="res://.import/global_albedo.png-3acc1199be74ea4c46d98a1ad6c2afa3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain_demo/terrain_data/global_albedo.png"
-dest_files=[ "res://.import/global_albedo.png-9bee09f7132cc81b82109d18f5b6db10.stex" ]
+source_file="res://scenes/godot_hterrain_demo/addons/zylann.hterrain_demo/terrain_data/global_albedo.png"
+dest_files=[ "res://.import/global_albedo.png-3acc1199be74ea4c46d98a1ad6c2afa3.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/white.png-06b7d7f95e74cd7f8357ec25a73870fb.stex"
+path="res://.import/white.png-b85eaa4a5406625a40826b7d64d0a13a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain/tools/icons/white.png"
-dest_files=[ "res://.import/white.png-06b7d7f95e74cd7f8357ec25a73870fb.stex" ]
+source_file="res://scenes/godot_hterrain_demo/addons/zylann.hterrain/tools/icons/white.png"
+dest_files=[ "res://.import/white.png-b85eaa4a5406625a40826b7d64d0a13a.stex" ]
 
 [params]
 
